@@ -5,4 +5,5 @@
 !배너생성 배너이름 @멘션
 (배너이름의 띄어쓰기가 있는경우 - 넣으세요.)
 
-![사용예시]([이미지_URL](https://media.discordapp.net/attachments/1126738444022972447/1130858587963523155/image.png)https://media.discordapp.net/attachments/1126738444022972447/1130858587963523155/image.png)
+![사용 예시][(https://github.com/사용자명/저장소이름/images/example.png](https://github.com/Camt4372/discord-partner-banner/blob/main/image.png)https://github.com/Camt4372/discord-partner-banner/blob/main/image.png)
+
